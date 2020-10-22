@@ -1,2 +1,2 @@
-# demo
-Repo that hosts all the issues created during the demo
+# Kloudi Demo
+This repository hosts all the issues created using https://demo.kloudi.tech
